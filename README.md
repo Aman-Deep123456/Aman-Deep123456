@@ -2,7 +2,7 @@
 <h3 align="center">🚀 B.Tech 2nd Year Student | 💻 Passionate Developer | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+Problem+Solver;Love+to+build+real+world+projects;Learning+Cloud+%26+DSA+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+web +Developer+%7C+Problem+Solver;Love+to+build+real+world+projects;Learning+Cloud+%26+DSA+💡" alt="Typing SVG" />
 </p>
 
 ---
