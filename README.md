@@ -47,4 +47,26 @@
 
 ### 🧠 LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/Aman_Deep123?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" />
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Aman_Deep123?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Deep123456&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Deep123456&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🖥️ GitHub Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aman-Deep123456&color=blue" alt="Profile Views" />
+</p>
