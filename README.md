@@ -1,72 +1,75 @@
 <h1 align="center">Hi 👋, I'm Amandeep</h1>
-<h3 align="center">A passionate B.Tech 2nd year student exploring the world of development</h3>
+<h3 align="center">🚀 B.Tech 2nd Year Student | 💻 Passionate Developer | 🌱 Lifelong Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+Problem+Solver;Love+to+build+real+world+projects;Learning+Cloud+%26+DSA+💡" alt="Typing SVG" />
+</p>
 
 ---
 
-🌟 **About Me**
+## 🌟 About Me
 
 - 🎓 I'm currently pursuing **B.Tech (2nd Year)**
-- 💻 I love problem solving and backend development
-- 🚀 Currently learning Data Structures, Algorithms, and building cool projects
-- 📫 You can reach me at **bhagatamandeep90@gmail.com**
+- 💻 I'm into **problem solving**, **backend development**, and **cloud computing**
+- 🧠 Currently learning **Data Structures**, **Algorithms**, and **building full-stack projects**
+- ✉️ Reach me at **bhagatamandeep90@gmail.com**
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149643.png" alt="Cloud Computing" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,nodejs,mongodb,git,linux&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+## 🔗 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/aman-deep-74300b28b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bhagatamandeep90@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/Aman_Deep123/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 ---
 
-### 🧠 LeetCode Stats
+## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Aman_Deep123?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Aman_Deep123?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Deep123456&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Deep123456&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Deep123456&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Deep123456&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 🖥️ GitHub Profile Views
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aman-Deep123456&color=blue" alt="Profile Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aman-Deep123456&theme=algolia&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🖥️ GitHub Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aman-Deep123456&style=flat-square&color=blue" alt="Profile Views" />
 </p>
