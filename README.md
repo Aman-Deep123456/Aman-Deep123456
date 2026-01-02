@@ -51,11 +51,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Deep123456&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.onrender.com/api?username=Aman-Deep123456&show_icons=true&theme=tokyonight&hide_border=true&v=1" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Deep123456&theme=tokyonight&hide_border=true&v=1" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Deep123456&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.onrender.com/api/top-langs/?username=Aman-Deep123456&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
 </p>
 
 ---
