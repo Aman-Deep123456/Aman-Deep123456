@@ -9,8 +9,8 @@
 
 ## 🌟 About Me
 
-- 🎓 I'm currently pursuing **B.Tech (2nd Year)**
-- 💻 I'm into **problem solving**, **backend development**, and **cloud computing**
+- 🎓 I'm currently pursuing **B.Tech (3nd Year)**
+- 💻 I'm into **problem solving**, **backend development**, IOS Developement and **cloud computing**
 - 🧠 Currently learning **Data Structures**, **Algorithms**, and **building full-stack projects**
 - ✉️ Reach me at **bhagatamandeep90@gmail.com**
 
