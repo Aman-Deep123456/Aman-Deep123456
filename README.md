@@ -49,11 +49,19 @@
 ---
 
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-Deep123456&show_icons=true&theme=tokyonight&hide_border=true)
+- 🎤 **EitherAssistant** – Offline voice-controlled system for hands-free computer interaction  
+  _C#, Python, Avalonia UI, FastAPI_
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Deep123456&layout=compact&theme=tokyonight&hide_border=true)
+- 🔐 **Smart Door Lock System** – Secure IoT-based access control with authentication  
+  _Embedded Systems, Security_
+
+- 🌍 **Travel & Tourism Management System** – Graph-based route planning and booking platform  
+  _DSA, Algorithms, Web Development_
+
+- 🎵 **Spotify Clone (Frontend)** – Responsive UI replicating core Spotify features  
+  _React, HTML, CSS_
 
 ---
 
