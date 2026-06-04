@@ -88,24 +88,6 @@
 - 🐦 **Twitter:** [@_Deep_Aman](https://twitter.com/_Deep_Aman)
 
 ---
-
-## 📊 GitHub & Coding Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Deep123456&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&bg_color=1a1b26&text_color=a0a9cb&title_color=58a6ff" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Deep123456&layout=compact&theme=tokyonight&hide_border=false&bg_color=1a1b26&text_color=a0a9cb&title_color=58a6ff" alt="Top Languages" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Deep123456&theme=tokyonight&hide_border=false&background=1a1b26" alt="GitHub Streak" width="500" />
-</p>
-
-### 💻 Coding Metrics
-- **Problems Solved:** 500+ (LeetCode)
-- **Contests Attended:** 20+
-- **Languages Used:** 8+ (C, C++, Java, Python, JavaScript, etc.)
-- **GitHub Contributions:** Active daily contributor
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Aman_Deep123?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
 </p>
