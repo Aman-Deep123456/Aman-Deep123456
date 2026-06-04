@@ -1,20 +1,25 @@
 <h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC2Pfv19go4b/giphy.gif" width="250" alt="Coding Anime" />
+</p>
+
 <h3 align="center">🚀 B.Tech 3rd Year Student | 💻 Full-Stack Developer | 🌱 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Problem+Solver;Crafting+Real-World+Solutions;DSA+%26+Cloud+Computing+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Problem+Solver;Crafting+Real-World+Solutions;DSA+%26+Cloud+Computing+Enthusiast;Always+Learning%2C+Always+Building;Made+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 Pursuing **B.Tech (Computer Science & Engineering) - 3rd Year**
-- 💻 Passionate about **Backend Development**, **Full-Stack Projects**, and **Cloud Computing**
-- 🧠 Specialized in **Data Structures & Algorithms**, **System Design**, and **Problem Solving**
-- 🚀 Currently exploring **Microservices**, **DevOps**, and **IoT Solutions**
-- 🌍 Based in **Dehradun, India** | Available for **Internships & Collaborations**
-- ⚡ Fun fact: I love building voice-controlled systems and IoT applications!
+- 🎓 Pursuing **B.Tech (Computer Science & Engineering) - 3rd Year** 💖
+- 💻 Passionate about **Backend Development**, **Full-Stack Projects**, and **Cloud Computing** ❤️
+- 🧠 Specialized in **Data Structures & Algorithms**, **System Design**, and **Problem Solving** 💜
+- 🚀 Currently exploring **Microservices**, **DevOps**, and **IoT Solutions** 💙
+- 🌍 Based in **Dehradun, India** | Available for **Internships & Collaborations** 💚
+- ⚡ Fun fact: I love building voice-controlled systems and IoT applications! **Made with ❤️**
 
 ---
 
@@ -84,6 +89,22 @@
 
 ---
 
+## 📊 GitHub & Coding Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Deep123456&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&bg_color=1a1b26&text_color=a0a9cb&title_color=58a6ff" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Deep123456&layout=compact&theme=tokyonight&hide_border=false&bg_color=1a1b26&text_color=a0a9cb&title_color=58a6ff" alt="Top Languages" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Deep123456&theme=tokyonight&hide_border=false&background=1a1b26" alt="GitHub Streak" width="500" />
+</p>
+
+### 💻 Coding Metrics
+- **Problems Solved:** 500+ (LeetCode)
+- **Contests Attended:** 20+
+- **Languages Used:** 8+ (C, C++, Java, Python, JavaScript, etc.)
+- **GitHub Contributions:** Active daily contributor
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Aman_Deep123?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
@@ -93,75 +114,57 @@
 
 ## 🚀 Featured Projects
 
-### 1. 🎤 **EitherAssistant** - Voice-Controlled System
-**Offline voice recognition & hands-free computer interaction**
+---
 
-- **Tech Stack:** C#, Python, Avalonia UI, FastAPI, Machine Learning
-- **Features:**
-  - 🎯 Real-time voice command processing
-  - 🔐 Secure local authentication system
-  - 🖥️ Desktop application with modern UI
-  - ⚡ Low-latency response time (<200ms)
-  - 📱 Cross-platform compatibility
-- **Highlights:** Built an intelligent voice assistant without cloud dependency
-- **GitHub:** [Link to Repository](#) *(Update with actual repo link)*
+### ❤️ 🎤 **EitherAssistant** ❤️
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400" alt="Voice Assistant Anime" />
+</p>
+
+🔗 **[GitHub Repo](#)** | 💻 **Tech:** C# • Python • FastAPI
 
 ---
 
-### 2. 🔐 **Smart Door Lock System** - IoT Security Solution
-**Advanced access control with biometric & RFID authentication**
+### ❤️ 🔐 **Smart Door Lock System** ❤️
 
-- **Tech Stack:** Embedded C, Arduino, RFID Module, LCD Display, Security Protocols
-- **Features:**
-  - 🔑 Multi-factor authentication (RFID + PIN)
-  - 📊 Real-time access logs & monitoring
-  - 🚨 Unauthorized access alerts
-  - 🔋 Low-power consumption design
-  - 🛡️ Encrypted data transmission
-- **Highlights:** Designed secure IoT architecture with fail-safe mechanisms
-- **GitHub:** [Link to Repository](#) *(Update with actual repo link)*
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKY3qPZYfJpvjWE/giphy.gif" width="400" alt="Smart Lock Anime" />
+</p>
+
+🔗 **[GitHub Repo](#)** | 💻 **Tech:** Embedded C • Arduino • RFID
 
 ---
 
-### 3. 🌍 **Travel & Tourism Management System** - Smart Route Planner
-**Graph-based optimization for route planning and booking**
+### ❤️ 🌍 **Travel & Tourism Management** ❤️
 
-- **Tech Stack:** Java, Data Structures & Algorithms, Graph Theory, Web Technologies
-- **Features:**
-  - 🗺️ Dijkstra's & Bellman-Ford algorithms for optimal route finding
-  - 💰 Dynamic pricing based on demand & availability
-  - 📅 Integrated booking system with real-time updates
-  - 🏨 Hotel & transport recommendations
-  - 📊 Advanced analytics dashboard
-- **Highlights:** Optimized routes saving users up to 30% travel time
-- **GitHub:** [Link to Repository](#) *(Update with actual repo link)*
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="Travel Anime" />
+</p>
+
+🔗 **[GitHub Repo](#)** | 💻 **Tech:** Java • DSA • Algorithms
 
 ---
 
-### 4. 🎵 **Spotify Clone** - Modern Music Streaming UI
-**Responsive frontend replicating Spotify's core features**
+### ❤️ 🎵 **Spotify Clone** ❤️
 
-- **Tech Stack:** React, HTML5, CSS3, JavaScript, Responsive Design
-- **Features:**
-  - 🎨 Beautiful, intuitive UI matching Spotify's design language
-  - 📱 Fully responsive on mobile, tablet, and desktop
-  - 🔊 Music player controls & playlist management
-  - 🎯 Search functionality with filters
-  - ⭐ User profile & favorites system
-  - 🌙 Dark theme optimization
-- **Highlights:** Pixel-perfect design with smooth animations
-- **Live Demo:** [Spotify Clone](https://spotify-clone-amandeep.vercel.app) *(Update with actual link)*
-- **GitHub:** [Link to Repository](#) *(Update with actual repo link)*
+<p align="center">
+  <img src="https://media.giphy.com/media/l1J9yTY5zxD5qwjQM/giphy.gif" width="400" alt="Music Streaming Anime" />
+</p>
+
+🔗 **[Live Demo](#)** | 💻 **Tech:** React • HTML5 • CSS3
+
+---
 
 ---
 
 ## 🎯 Key Achievements
 
-- 🏆 **LeetCode:** 500+ Problems Solved | Rated 5⭐
-- 📚 **Consistent Learner:** Completed multiple DSA & Web Development courses
-- 🤝 **Collaboration:** Active in open-source contributions
-- 🎓 **Academic Excellence:** Strong grasp of Computer Science fundamentals
-- 💡 **Innovation:** Built multiple real-world projects from concept to deployment
+- 🏆 **LeetCode:** 500+ Problems Solved | Rated 5⭐ **Made with ❤️**
+- 📚 **Consistent Learner:** Completed multiple DSA & Web Development courses 💖
+- 🤝 **Collaboration:** Active in open-source contributions with **Love for Code** 💜
+- 🎓 **Academic Excellence:** Strong grasp of Computer Science fundamentals 💙
+- 💡 **Innovation:** Built multiple real-world projects from concept to deployment **with Passion** 💚
 
 ---
 
@@ -185,16 +188,16 @@
 
 ---
 
-## 💬 Let's Connect!
+## 💬 Let's Connect! 💕
 
 I'm always interested in:
-- 💼 **Internship & Job Opportunities**
-- 🤝 **Collaborating on exciting projects**
-- 💡 **Discussing tech ideas & innovations**
-- 📚 **Knowledge exchange & mentorship**
-- 🚀 **Building products that matter**
+- 💼 **Internship & Job Opportunities** - Let's build something amazing together! ❤️
+- 🤝 **Collaborating on exciting projects** - Your ideas + my code = magic! 💖
+- 💡 **Discussing tech ideas & innovations** - I love geeky conversations! 💜
+- 📚 **Knowledge exchange & mentorship** - Let's grow together! 💙
+- 🚀 **Building products that matter** - Making the world better, one line of code at a time! 💚
 
-**Feel free to reach out!** Whether it's about projects, opportunities, or just tech talk, I'm always happy to connect.
+**Feel free to reach out!** Whether it's about projects, opportunities, or just tech talk, I'm always happy to connect. **Your message is welcomed with ❤️**
 
 ---
 
