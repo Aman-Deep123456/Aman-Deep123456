@@ -118,14 +118,6 @@
 
 ---
 
-# 💭 Quote
-
-<p align="center">
-<i>
-"Programs must be written for people to read, and only incidentally for machines to execute."
-</i>
-</p>
-
 ---
 
 <h3 align="center">
