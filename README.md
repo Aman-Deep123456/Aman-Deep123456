@@ -112,47 +112,11 @@
 
 ---
 
-## 🚀 Featured Projects
-
----
-
-### ❤️ 🎤 **EitherAssistant** ❤️
+## 💖 My Passion For Code
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400" alt="Voice Assistant Anime" />
+  <img src="https://media.giphy.com/media/qgQUggAC2Pfv19go4b/giphy.gif" width="500" alt="Coding with Love" />
 </p>
-
-🔗 **[GitHub Repo](#)** | 💻 **Tech:** C# • Python • FastAPI
-
----
-
-### ❤️ 🔐 **Smart Door Lock System** ❤️
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKY3qPZYfJpvjWE/giphy.gif" width="400" alt="Smart Lock Anime" />
-</p>
-
-🔗 **[GitHub Repo](#)** | 💻 **Tech:** Embedded C • Arduino • RFID
-
----
-
-### ❤️ 🌍 **Travel & Tourism Management** ❤️
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="Travel Anime" />
-</p>
-
-🔗 **[GitHub Repo](#)** | 💻 **Tech:** Java • DSA • Algorithms
-
----
-
-### ❤️ 🎵 **Spotify Clone** ❤️
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l1J9yTY5zxD5qwjQM/giphy.gif" width="400" alt="Music Streaming Anime" />
-</p>
-
-🔗 **[Live Demo](#)** | 💻 **Tech:** React • HTML5 • CSS3
 
 ---
 
