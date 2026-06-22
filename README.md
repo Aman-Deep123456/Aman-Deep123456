@@ -1,4 +1,4 @@
-![banner]([[https://images.unsplash.com/photo-1555066931-4365d14bab8c](https://unsplash.com/photos/a-person-standing-on-a-beach-with-a-halo-above-their-head-coy_MhYMLHs)?w=1200&h=400&fit=crop&crop=center](https://unsplash.com/photos/a-person-standing-on-a-beach-with-a-halo-above-their-head-coy_MhYMLHs))
+![banner](banner.jpg)
 
 :3
 
