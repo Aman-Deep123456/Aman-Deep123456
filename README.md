@@ -1,6 +1,6 @@
 ![banner](./Banner.jpg)
 
-:3
+:) 
 
 IOS // full stack // backend // cloud
 
