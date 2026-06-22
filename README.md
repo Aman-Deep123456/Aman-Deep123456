@@ -1,4 +1,4 @@
-![banner](Banner.jpg)
+![banner](banner.jpg)
 
 :3
 
