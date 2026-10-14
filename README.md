@@ -1,6 +1,6 @@
 ![banner](./Banner.jpg)
 
-:)  ¯\_(ツ)_/¯   ^_^
+:)      ¯\_(ツ)_/¯      ^_^
 
 iOS||Development||Backend||Cloud||CP
 
